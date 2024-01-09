@@ -1,5 +1,5 @@
 # Zora Project 
-You can find a video of the operation at this [link](https://www.youtube.com)<br>
+You can find a demo video at this [link](https://www.youtube.com)<br>
 In this README you can find a step by step configuration to run the project, you need Python in a version greater than 3.8 and Choregraphe 2.1.4.
 ## Step 1: Environment configuration
 1. Download the project  
